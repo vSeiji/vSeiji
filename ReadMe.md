@@ -10,6 +10,6 @@ Estudante de Análise e Desenvolvimento de Sistemas na FIAP com um grande intere
 <div>
     <a href="https://github.com/vSeiji">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=vSeiji&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vSeiji&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+    <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=vSeiji&theme=tokyonight&hide_border=false"/>
 </div>
 
